@@ -1,0 +1,5 @@
+TOKEN="token"
+HOST="iip"
+USER="admin"
+PASSWORD="password"
+DATABASE="database_name"
